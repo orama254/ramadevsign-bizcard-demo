@@ -1,0 +1,14 @@
+{
+  "name": "ramadevsign",
+  "version": "1.1.0",
+  "description": "This is the online business card for Rama Ochieng(ramadevsign)",
+  "main": "index.js",
+  "bin": {
+    "ramadevsign-vcard": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rama Ochieng (ramadevsign.com)",
+  "license": "ISC"
+}
